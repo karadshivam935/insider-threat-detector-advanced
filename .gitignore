@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Database & logs
+data/*.db
+logs/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Temporary / test files
+*.bin
+big.bin
+
+# Local configs (DO NOT COMMIT)
+config.yaml
+config.yaml.local
