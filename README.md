@@ -99,11 +99,12 @@ pandas==2.2.2
 numpy==1.26.4
 scikit-learn==1.4.2
 psutil==5.9.8
+# Packet capture (choose one)
+scapy==2.5.0
 ```
 
 
-# Packet capture (choose one)
-scapy==2.5.0
+
 
 ---
 
