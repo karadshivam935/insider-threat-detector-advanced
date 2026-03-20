@@ -91,6 +91,21 @@ Install dependencies
 ```
 pip install -r requirements.txt
 ```
+Flask==3.0.0
+Flask-SocketIO==5.3.6
+eventlet==0.35.2
+python-socketio==5.11.2
+
+PyYAML==6.0.1
+pandas==2.2.2
+numpy==1.26.4
+
+scikit-learn==1.4.2
+
+psutil==5.9.8
+
+# Packet capture (choose one)
+scapy==2.5.0
 
 ---
 
